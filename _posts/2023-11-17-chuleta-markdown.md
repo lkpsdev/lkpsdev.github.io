@@ -101,5 +101,5 @@ echo 'No vamos a poner números de línea en el código!'
 {% include embed/youtube.html id='H-B46URT4mg' %}
 {% include embed/twitch.html id='1634779211' %}
 
-[^1]: Markdown es un estilo de formato...
+[^1]: Markdown es un lenguaje de marcado
 [^2]: Esta es una segunda definición

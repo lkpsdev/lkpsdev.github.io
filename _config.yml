@@ -14,7 +14,7 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: lkpsdev # the main title
+title: lkps.dev # the main title
 
 tagline: No seas tímido y comparte # it will display as the sub-title
 

@@ -14,9 +14,9 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: lkps.dev # the main title
+title: LKPS Dev # the main title
 
-tagline: No seas tímido y comparte # it will display as the sub-title
+tagline: Blog personal # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Seguridad informática, desarrollo web
